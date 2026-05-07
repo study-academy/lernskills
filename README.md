@@ -42,15 +42,18 @@ Kopiere den Inhalt der `SKILL.md` direkt als System-Prompt in deinen GPT oder AP
 
 ## Das komplette System: Studymut
 
-Diese Skills hier sind der öffentliche Ausschnitt. Das vollständige System heißt **Studymut** — ein AI-Lernbegleiter der komplett in Claude integriert ist und Studierende durch jede Phase des Lernprozesses führt.
+Diese Skills hier sind ein öffentlicher Ausschnitt. Das vollständige System heißt **Studymut** — ein vollständiger AI Agent (ähnlich wie Openclaw) der komplett in dein Claude oder bestehendes Agent-Setup integriert ist und dich durch jede Phase des Lernprozesses führt.
 
-Was Studymut zusätzlich kann:
-- **Spaced Repetition** — berechnet automatisch wann welches Thema wiederholt werden muss und führt die Intervalle mit
-- **Learner Profile** — merkt sich über Sessions hinweg Stärken, Schwächen, Prüfungsformate und SR-Status
-- **Vollständiges 4-Phasen-System** — Priming, Informationsaufnahme, Encoding-Begleitung und Retrieval als aufeinander aufbauender Zyklus
-- **Prüfungssimulation** — Mündlich, schriftlich, MC und OSCE-Format mit strukturiertem Feedback
-- **Session-Logs** — jede Lernsession wird automatisch dokumentiert damit der nächste Chat nahtlos weitermacht
-- **Lernproblem-Analyse** — wenn das Lernen nicht funktioniert, analysiert Studymut die Ursache und entwickelt mit dem Studenten konkrete Änderungen
+Studymut ist kein Chatbot der Fragen beantwortet. Er ist ein eigenständiger Agent mit Gedächtnis, Lernlogik und einem klaren Auftrag: dass du prüfungsbereit bist — nicht dass du das Gefühl hast, gelernt zu haben.
+
+**Was Studymut für dich tut:**
+
+- **Kein Neustart jede Session** — Studymut erinnert sich an deine Themen, deinen Fortschritt, deine Schwächen und wo du aufgehört hast. Jeder Chat setzt nahtlos fort.
+- **Automatisches Spaced Repetition** — Studymut berechnet wann welches Thema wiederholt werden muss und erinnert dich aktiv daran. Kein manuelles Planen, kein Vergessen.
+- **Prüfungssimulation auf Prüfungsniveau** — Mündlich, schriftlich, MC, OSCE. Studymut übernimmt die Prüferrolle, stellt Folgefragen, bewertet strukturiert und sagt dir direkt was fehlt.
+- **Lernproblem-Diagnose** — Wenn das Lernen nicht funktioniert, analysiert Studymut die Ursache und erarbeitet mit dir konkrete Änderungen. Nicht motivieren — verstehen warum es hakt.
+- **Vollständiges 4-Phasen-System** — Priming, Informationsaufnahme, Encoding-Begleitung und Retrieval als aufeinander aufbauender Zyklus, abgestimmt auf dein Fach und deine Prüfungsformate.
+- **Professionelles Feedback ohne Floskeln** — Studymut sagt dir was falsch ist, warum es falsch ist, und was du konkret ändern musst. Kein Mitleid, keine Aufmunterungen, kein Herumreden.
 
 Studymut ist Teil des **Lernsystem Neuro** der Studyacademy.
 
