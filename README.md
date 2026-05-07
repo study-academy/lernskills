@@ -1,8 +1,8 @@
 # Lernskills — Öffentliche Skill-Sammlung
 
-Eine öffentliche Sammlung von Lernskills für AI-Assistenten wie Claude, entwickelt von [Studyacademy](https://studyacademy.de).
+Eine öffentliche Sammlung von Lernskills, entwickelt von [Studyacademy](https://study-academy.de/lernsystem-aff).
 
-Lernskills sind strukturierte Anleitungen die einem AI-Assistenten genau sagen, wie er einen Studenten durch eine bestimmte Lernmethode führen soll — Schritt für Schritt, sokratisch, ohne Inhalte vorwegzunehmen.
+Lernskills sind strukturierte Anleitungen die deinem AI-Assistenten genau sagen, wie er dich durch einen bestimmten Lernworkflow führen soll — Schritt für Schritt, ohne Inhalte vorwegzunehmen oder dich in die Irre zu führen.
 
 ---
 
