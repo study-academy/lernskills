@@ -40,6 +40,24 @@ Kopiere den Inhalt der `SKILL.md` direkt als System-Prompt in deinen GPT oder AP
 
 ---
 
+## Das komplette System: Studymut
+
+Diese Skills hier sind der öffentliche Ausschnitt. Das vollständige System heißt **Studymut** — ein AI-Lernbegleiter der komplett in Claude integriert ist und Studierende durch jede Phase des Lernprozesses führt.
+
+Was Studymut zusätzlich kann:
+- **Spaced Repetition** — berechnet automatisch wann welches Thema wiederholt werden muss und führt die Intervalle mit
+- **Learner Profile** — merkt sich über Sessions hinweg Stärken, Schwächen, Prüfungsformate und SR-Status
+- **Vollständiges 4-Phasen-System** — Priming, Informationsaufnahme, Encoding-Begleitung und Retrieval als aufeinander aufbauender Zyklus
+- **Prüfungssimulation** — Mündlich, schriftlich, MC und OSCE-Format mit strukturiertem Feedback
+- **Session-Logs** — jede Lernsession wird automatisch dokumentiert damit der nächste Chat nahtlos weitermacht
+- **Lernproblem-Analyse** — wenn das Lernen nicht funktioniert, analysiert Studymut die Ursache und entwickelt mit dem Studenten konkrete Änderungen
+
+Studymut ist Teil des **Lernsystem Neuro** der Studyacademy.
+
+**[Zum Lernsystem Neuro](https://study-academy.de/lernsystem-aff)**
+
+---
+
 ## Mitmachen
 
 Hast du einen eigenen Lernskill entwickelt der anderen helfen könnte? Schick ihn uns — wir prüfen ihn und fügen ihn zur Sammlung hinzu.
