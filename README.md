@@ -22,6 +22,7 @@ Der Assistent moderiert — der Student denkt. Das ist das Prinzip.
 | Skill | Was er macht |
 |---|---|
 | [Priming](priming/SKILL.md) | Baut vor der Informationsaufnahme ein kognitives Grundgerüst — aktiviert Vorwissen, erzeugt Neugier, schafft mentale Anker |
+| [Feynman](feynman/SKILL.md) | Testet Verständnis durch Erklären — deckt Wissenslücken auf, vertieft durch Vertiefungsfragen und Analogien |
 
 ---
 
